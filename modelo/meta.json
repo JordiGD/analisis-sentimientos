@@ -1,0 +1,49 @@
+{
+  "modelo": "TF-IDF (palabras + caracteres) + Regresión Logística",
+  "etiquetas": [
+    "Alegría",
+    "Tristeza",
+    "Enojo",
+    "Miedo",
+    "Sorpresa",
+    "Asco",
+    "Neutral"
+  ],
+  "C": 2,
+  "busqueda_C": [
+    {
+      "C": 0.5,
+      "f1_macro": 0.61,
+      "accuracy": 0.6837
+    },
+    {
+      "C": 1,
+      "f1_macro": 0.6243,
+      "accuracy": 0.6848
+    },
+    {
+      "C": 2,
+      "f1_macro": 0.6325,
+      "accuracy": 0.6837
+    },
+    {
+      "C": 4,
+      "f1_macro": 0.6242,
+      "accuracy": 0.6764
+    },
+    {
+      "C": 8,
+      "f1_macro": 0.6179,
+      "accuracy": 0.6754
+    }
+  ],
+  "textos_entrenamiento": 9492,
+  "fecha": "2026-11-09T09:05:43",
+  "prueba": {
+    "accuracy": 0.7035,
+    "f1_macro": 0.6755,
+    "accuracy_sentimiento": 0.7733,
+    "textos": 2722
+  },
+  "segundos_entrenamiento": 93
+}

@@ -1,0 +1,7 @@
+Alegría: !, amo, gracias, mi, jaja, feliz, ¡, me gusta, libre, gusta, viva, la pena
+Asco: asco, mierda, una mierda, son, odio, es una, me da, tontos, el que, es el, no_lea, los @usuario
+Enojo: mierda, coño, odio, puta, no, de una, tonto, es de, asco, cago en, y ahora, . eleccionesgenerales28a
+Miedo: miedo, tengo, me, cuidado, que miedo, me da, peligroso, da, no_me, aterrador, da miedo, miedo de
+Neutral: laliga, gretathunberg, venezuela, juegodetronos, diadellibro, díadellibro, championsleague, en, de juegodetronos, . url, :, "
+Sorpresa: ?, wow, dios, omg, no_puedo, no_puedo no_creer, por dios, !, no_creer, católicos, no no_puedo, madre
+Tristeza: triste, pena, pobre, que pena, llorar, siento, tristeza, mal, pérdida, emoji_cara_llorando, lloro, corazón
